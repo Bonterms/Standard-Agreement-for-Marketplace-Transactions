@@ -5,10 +5,9 @@
 
 
 ## How to Use
-How to Use:
-Bonterms Standard Agreement for Marketplace Transactions
-Marketplace Transactions Stamp
-Overview:
+## Bonterms Standard Agreement for Marketplace Transactions
+
+##Overview:
 The Bonterms Standard Agreement for Marketplace Transactions (Version 1.0) is designed to ease contracting between Providers and Customers in an enterprise app Marketplace.
 
 Once adopted by the Marketplace, individual Providers can designate the Standard Agreement as the end user terms under which their Product, either a Cloud Servicer or Provider Software (installed software), is made available to the Customer.
@@ -20,7 +19,8 @@ The Marketplace itself does not enter into the Bonterms Standard Agreement and t
 The Bonterms Standard Agreement is free to use by all parties under CC BY ND.
 
 You can read more about how the Atlassian Marketplace has implemented the Standard Agreement here.  
-How to Use:
+
+## How to Use:
 As a Provider:
 Find a Participating Marketplace. Find a Marketplace that offers the Bonterms Standard Agreement or ask your favorite Marketplace to make it available as an option.
 Review the Bonterms Standard Agreement with your lawyer to make sure it works for you.
