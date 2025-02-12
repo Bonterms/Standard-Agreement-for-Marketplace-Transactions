@@ -12,16 +12,9 @@
 
 **1.4. Order Placement**. In the event of a conflict between the elements of the terms and conditions making up the Agreement, the order of precedence is: (i) any Amendment, (ii) Provider-Specific Terms and (iii) this Standard Agreement.
 
-**3.2. Separate Agreements**. Each Order creates a separate Agreement between Provider and Customer, but Orders do not become part of the Agreement.
-
-**4. Order of Precedence**. In the event of a conflict between the elements of the terms and conditions making up the Agreement, the order of precedence is:
-- (a) Any Amendment.
-- (b) Provider-Specific Terms.
-- (c) This Standard Agreement.
-
 **2. Products**.
 
-**2.1 CLoud Service.** Subject to this Agreement, Customer may use the Cloud Service for its own business purposes in accordance with the Permitted Use.
+**2.1 Cloud Service.** Subject to this Agreement, Customer may use the Cloud Service for its own business purposes in accordance with the Permitted Use.
 
 **2.2 Provideer Software.** Subject to this Agreement, Customer may install, copy and use the Provider Software for its own business purposes in accordance with the Permitted Use.
 
