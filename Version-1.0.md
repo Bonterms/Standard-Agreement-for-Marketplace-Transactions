@@ -10,13 +10,13 @@
 
 **1.3. Orders**. As specified in the Marketplace, an Order may be between Customer and the Marketplace provider (or other reseller or agent of Provider) or directly with Provider. Each Order creates a separate Agreement between Provider and Customer but Orders do not become part of the Agreement.
 
-**1.4. Order Placement**. In the event of a conflict between the elements of the terms and conditions making up the Agreement, the order of precedence is: (i) any Amendment, (ii) Provider-Specific Terms and (iii) this Standard Agreement.
+**1.4. Order of Precedence**. In the event of a conflict between the elements of the terms and conditions making up the Agreement, the order of precedence is: (i) any Amendment, (ii) Provider-Specific Terms and (iii) this Standard Agreement.
 
 **2. Products**.
 
 **2.1 Cloud Service.** Subject to this Agreement, Customer may use the Cloud Service for its own business purposes in accordance with the Permitted Use.
 
-**2.2 Provideer Software.** Subject to this Agreement, Customer may install, copy and use the Provider Software for its own business purposes in accordance with the Permitted Use.
+**2.2 Provider Software.** Subject to this Agreement, Customer may install, copy and use the Provider Software for its own business purposes in accordance with the Permitted Use.
 
 **2.3 Users.** Customer may permit Users to use the Product on its behalf. Customer is responsible for provisioning and managing its User accounts, for its Users’ actions through the Product and for their compliance with this Agreement. Customer will ensure that Users keep their login credentials confidential and will promptly notify Provider upon learning of any compromise of User accounts or credentials.
 
@@ -108,7 +108,7 @@
 
 **13.1 Reserved Rights**. Neither party grants the other any rights or licenses not expressly set out in this Agreement. Except for Provider’s express rights in this Agreement, as between the parties, Customer retains all intellectual property and other rights in Customer Data and Customer Materials provided to Provider. Except for Customer’s express rights in this Agreement, as between the parties, Provider and its licensors retain all intellectual property and other rights in the Product, Professional Services deliverables and related Provider technology.
 
-**13.2 Feedback. If Customer gives Provider feedback regarding improvement or operation of the Product, Support or Professional Services, Provider may use the feedback without restriction or obligation. All feedback is provided “AS IS” and Provider will not publicly identify Customer as the source of feedback without Customer’s permission.
+**13.2 Feedback**. If Customer gives Provider feedback regarding improvement or operation of the Product, Support or Professional Services, Provider may use the feedback without restriction or obligation. All feedback is provided “AS IS” and Provider will not publicly identify Customer as the source of feedback without Customer’s permission.
 
 **14. Limitations of Liability**.
 
@@ -224,7 +224,7 @@
 
 “**Amendment**” is defined in Section 19.5 (Amendments).
 
-“**Attachments** means any AUP, Security Measures, SLA, Support Policy or other policies specified in the Provider-Specific Terms.
+“**Attachments**” means any AUP, Security Measures, SLA, Support Policy or other policies specified in the Provider-Specific Terms.
 
 “**Cloud Service**” means Provider’s proprietary software as a service (SaaS) or cloud service as identified in the applicable Listing.
 
