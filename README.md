@@ -1,7 +1,7 @@
 # Standard-Agreement-for-Marketplace-Transactions
 
 ## About Bonterms
-[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our enterprise Cloud Terms (with DPA and SLA Attachments), Professional Services Agreement (PSA) and Mutual NDA let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
+[Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our Standard Agreements let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The Bonterms Platform will leverage our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
 
 
 ## How to Use
@@ -32,4 +32,4 @@ Add the Bonterms Standard Agreement as an end user agreement option. You may mak
 Contact Bonterms for Help. Please contact Bonterms at support@bonterms.com for free support for your implementation and access to best practice guidance.
 Thank you for participating in the standard contracting movement. We welcome your questions and feedback.
 
-Bonterms does not provide legal advice, does not guarantee the enforceability of the Standard Agreement for Marketplace Transactions and has no liability relating to its use.
+**Bonterms does not provide legal advice, does not guarantee the enforceability of the Standard Agreement for Marketplace Transactions and has no liability relating to its use.**
