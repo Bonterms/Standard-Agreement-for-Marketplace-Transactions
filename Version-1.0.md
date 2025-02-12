@@ -14,39 +14,39 @@
 
 **2. Products**.
 
-**2.1 Cloud Service.** Subject to this Agreement, Customer may use the Cloud Service for its own business purposes in accordance with the Permitted Use.
+**2.1. Cloud Service.** Subject to this Agreement, Customer may use the Cloud Service for its own business purposes in accordance with the Permitted Use.
 
-**2.2 Provider Software.** Subject to this Agreement, Customer may install, copy and use the Provider Software for its own business purposes in accordance with the Permitted Use.
+**2.2. Provider Software.** Subject to this Agreement, Customer may install, copy and use the Provider Software for its own business purposes in accordance with the Permitted Use.
 
-**2.3 Users.** Customer may permit Users to use the Product on its behalf. Customer is responsible for provisioning and managing its User accounts, for its Users’ actions through the Product and for their compliance with this Agreement. Customer will ensure that Users keep their login credentials confidential and will promptly notify Provider upon learning of any compromise of User accounts or credentials.
+**2.3. Users.** Customer may permit Users to use the Product on its behalf. Customer is responsible for provisioning and managing its User accounts, for its Users’ actions through the Product and for their compliance with this Agreement. Customer will ensure that Users keep their login credentials confidential and will promptly notify Provider upon learning of any compromise of User accounts or credentials.
 
 **3. Customer Data.**
 
-**3.1 Use of Customer Data.** Subject to this Agreement, Provider will access and use Customer Data solely to provide and maintain the Cloud Service, Support and Professional Services under this Agreement (“**Use of Customer Data**”). Use of Customer Data includes sharing Customer Data as Customer directs through the Cloud Service, but Provider will not otherwise disclose Customer Data to third parties except as permitted in this Agreement.
+**3.1. Use of Customer Data.** Subject to this Agreement, Provider will access and use Customer Data solely to provide and maintain the Cloud Service, Support and Professional Services under this Agreement (“**Use of Customer Data**”). Use of Customer Data includes sharing Customer Data as Customer directs through the Cloud Service, but Provider will not otherwise disclose Customer Data to third parties except as permitted in this Agreement.
 
-**3.2 Security.** Provider will implement and maintain the Security Measures, if any, identified in the Provider-Specific Terms. If no Security Measures are identified, Provider will use appropriate technical and organizational measures designed to prevent unauthorized access, use, alteration or disclosure of Customer Data.
+**3.2. Security.** Provider will implement and maintain the Security Measures, if any, identified in the Provider-Specific Terms. If no Security Measures are identified, Provider will use appropriate technical and organizational measures designed to prevent unauthorized access, use, alteration or disclosure of Customer Data.
 
-**3.3 DPA.** The parties will adhere to the Data Protection Addendum (DPA), if any, identified in the Provider-Specific Terms.
+**3.3. DPA.** The parties will adhere to the Data Protection Addendum (DPA), if any, identified in the Provider-Specific Terms.
 
-**3.4 Usage Data.** Provider may collect Usage Data and use it to operate, improve and support the Product and for other lawful business purposes, including benchmarking and reports. However, Provider will not disclose Usage Data externally unless it is (a) de-identified so that it does not identify Customer, its Users or any other person and (b) aggregated with data across other customers.
+**3.4. Usage Data.** Provider may collect Usage Data and use it to operate, improve and support the Product and for other lawful business purposes, including benchmarking and reports. However, Provider will not disclose Usage Data externally unless it is (a) de-identified so that it does not identify Customer, its Users or any other person and (b) aggregated with data across other customers.
 
 **4. Mutual Compliance with Laws.** Each party will comply with all Laws that apply to its performance under this Agreement.
 
-**5 Support and SLA.**
+**5. Support and SLA.**
 
-**5.1 Support.** Provider will provide Support for the Product as described in any Support Policy identified in the Provider-Specific Terms.
+**5.1. Support.** Provider will provide Support for the Product as described in any Support Policy identified in the Provider-Specific Terms.
 
-**5.2 SLA.** Provider will adhere to any Service Level Agreement (SLA) identified in the Provider-Specific Terms.
+**5.2. SLA.** Provider will adhere to any Service Level Agreement (SLA) identified in the Provider-Specific Terms.
 
 **6. Warranties.**
 
-**6.1 Mutual Warranties.** Each party represents and warrants that:
+**6.1. Mutual Warranties.** Each party represents and warrants that:
 
   (a) it has the legal power and authority to enter into this Agreement, and
   
   (b)it will use industry-standard measures to avoid introducing Viruses into the Cloud Service.
 
-**6.2 Performance Warranty.**
+**6.2. Performance Warranty.**
 
   **(a) Scope.** Provider warrants that the Product will perform materially as described in the     Documentation and that Provider will not materially decrease the overall functionality of the Cloud Service during the Subscription Term (the “**Performance Warranty**”).
 
@@ -56,13 +56,13 @@
 
   (d) Exclusive Remedy. **The procedures set forth in this Section 6.2 are Customer’s exclusive remedies and Provider’s sole liability for breach of the Performance Warranty.**
 
-6.3 Disclaimers. **Except as expressly set out in this Agreement, each party disclaims all warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular purpose, title and noninfringement. Provider’s warranties in this Section 6 do not apply to issues arising from Third-Party Platforms or misuse or unauthorized modifications of the Product. These disclaimers apply to the full extent permitted by Law.**
+6.3. Disclaimers. **Except as expressly set out in this Agreement, each party disclaims all warranties, whether express, implied, statutory or otherwise, including warranties of merchantability, fitness for a particular purpose, title and noninfringement. Provider’s warranties in this Section 6 do not apply to issues arising from Third-Party Platforms or misuse or unauthorized modifications of the Product. These disclaimers apply to the full extent permitted by Law.**
 
 **7. Usage Rules.**
 
-**7.1 Compliance.** Customer (a) will comply with any Acceptable Use Policy (AUP) identified in the Provider-Specific Terms and (b) represents and warrants that it has all rights necessary to use Customer Data with the Cloud Service and grant Provider the rights to Customer Data specified in this Agreement, without violating third-party intellectual property, privacy or other rights. Between the parties, Customer is responsible for the content and accuracy of Customer Data.
+**7.1. Compliance.** Customer (a) will comply with any Acceptable Use Policy (AUP) identified in the Provider-Specific Terms and (b) represents and warrants that it has all rights necessary to use Customer Data with the Cloud Service and grant Provider the rights to Customer Data specified in this Agreement, without violating third-party intellectual property, privacy or other rights. Between the parties, Customer is responsible for the content and accuracy of Customer Data.
 
-**7.2 High-Risk Activities and Sensitive Data.** Customer:
+**7.2. High-Risk Activities and Sensitive Data.** Customer:
 
   (a) will not use the Product for High-Risk Activities,
 
@@ -70,7 +70,7 @@
 
   (c) acknowledges that the Product is not designed for (and Provider has no liability for) use prohibited in this Section 7.2.
 
-**7.3 Restrictions**. Customer will not and will not permit anyone else to: (a) sell, sublicense, distribute or rent the Product (in whole or part), grant non-Users access to the Product or use the Product to provide a hosted or managed service to others, (b) reverse engineer, decompile or seek to access the source code of the Product, except to the extent these restrictions are prohibited by Laws and then only upon advance notice to Provider, (c) copy, modify, create derivative works of or remove proprietary notices from the Product, (d) conduct security or vulnerability tests of the Cloud Service or interfere with its operation, (e) circumvent access restrictions to any Product or (f) use the Product to develop a product or service that competes with the Product.
+**7.3. Restrictions**. Customer will not and will not permit anyone else to: (a) sell, sublicense, distribute or rent the Product (in whole or part), grant non-Users access to the Product or use the Product to provide a hosted or managed service to others, (b) reverse engineer, decompile or seek to access the source code of the Product, except to the extent these restrictions are prohibited by Laws and then only upon advance notice to Provider, (c) copy, modify, create derivative works of or remove proprietary notices from the Product, (d) conduct security or vulnerability tests of the Cloud Service or interfere with its operation, (e) circumvent access restrictions to any Product or (f) use the Product to develop a product or service that competes with the Product.
 
 **8. Third-Party Platforms**. To the extent offered by Provider, Customer may choose to enable integrations or exchange Customer Data with Third-Party Platforms. Customer’s use of a Third-Party Platform is governed by its agreement with the relevant provider, not this Agreement, and Provider is not responsible for Third-Party Platforms or how their providers use Customer Data.
 
@@ -82,13 +82,13 @@
 
 **12. Term and Termination.**
 
-**12.1 Subscription Terms**. Each Subscription Term will last for an initial 12-month period unless the Order states otherwise.
+**12.1. Subscription Terms**. Each Subscription Term will last for an initial 12-month period unless the Order states otherwise.
 
-**12.2 Term of Agreement**. This Agreement starts on the Effective Date and continues until the end of all Subscription Terms, unless sooner terminated in accordance with its terms. If no Subscription is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
+**12.2. Term of Agreement**. This Agreement starts on the Effective Date and continues until the end of all Subscription Terms, unless sooner terminated in accordance with its terms. If no Subscription is in effect, either party may terminate this Agreement for any or no reason with notice to the other party.
 
-**12.3 Termination**. Either party may terminate this Agreement (including all Subscriptions) if the other party (a) fails to cure a material breach of this Agreement within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
+**12.3. Termination**. Either party may terminate this Agreement (including all Subscriptions) if the other party (a) fails to cure a material breach of this Agreement within 30 days after notice, (b) ceases operation without a successor or (c) seeks protection under a bankruptcy, receivership, trust deed, creditors’ arrangement, composition or comparable proceeding, or if such a proceeding is instituted against that party and not dismissed within 60 days.
 
-**12.4 Data Export and Deletion**.
+**12.4. Data Export and Deletion**.
 
   (a) During a Subscription Term, Customer may export Customer Data from the Cloud Service (or Provider will otherwise make the Customer Data available to Customer) as described in the Documentation.
 
@@ -96,7 +96,7 @@
 
   (c) Nonetheless, the recipient may retain Customer Data or Confidential Information in accordance with its standard backup or record retention policies or as required by Law, subject to Section 3.2 (Security), Section 16 (Confidentiality) and any DPA.
 
-**12.5 Effect of Termination**.
+**12.5. Effect of Termination**.
 
   (a) Customer’s right to use the Product, Support and Professional Services will cease upon any termination or expiration of this Agreement, subject to this Section 12.
 
@@ -106,21 +106,21 @@
 
 **13. Intellectual Property**.
 
-**13.1 Reserved Rights**. Neither party grants the other any rights or licenses not expressly set out in this Agreement. Except for Provider’s express rights in this Agreement, as between the parties, Customer retains all intellectual property and other rights in Customer Data and Customer Materials provided to Provider. Except for Customer’s express rights in this Agreement, as between the parties, Provider and its licensors retain all intellectual property and other rights in the Product, Professional Services deliverables and related Provider technology.
+**13.1. Reserved Rights**. Neither party grants the other any rights or licenses not expressly set out in this Agreement. Except for Provider’s express rights in this Agreement, as between the parties, Customer retains all intellectual property and other rights in Customer Data and Customer Materials provided to Provider. Except for Customer’s express rights in this Agreement, as between the parties, Provider and its licensors retain all intellectual property and other rights in the Product, Professional Services deliverables and related Provider technology.
 
-**13.2 Feedback**. If Customer gives Provider feedback regarding improvement or operation of the Product, Support or Professional Services, Provider may use the feedback without restriction or obligation. All feedback is provided “AS IS” and Provider will not publicly identify Customer as the source of feedback without Customer’s permission.
+**13.2. Feedback**. If Customer gives Provider feedback regarding improvement or operation of the Product, Support or Professional Services, Provider may use the feedback without restriction or obligation. All feedback is provided “AS IS” and Provider will not publicly identify Customer as the source of feedback without Customer’s permission.
 
 **14. Limitations of Liability**.
 
-14.1 General Cap. **Each party’s entire liability arising out of or related to this Agreement will not exceed the General Cap.**
+14.1. General Cap. **Each party’s entire liability arising out of or related to this Agreement will not exceed the General Cap.**
 
-14.2 Consequential Damages Waiver. **Neither party will have any liability arising out of or related to this Agreement for indirect, special, incidental, reliance or consequential damages or damages for loss of use, lost profits or interruption of business, even if informed of their possibility in advance.**
+14.2. Consequential Damages Waiver. **Neither party will have any liability arising out of or related to this Agreement for indirect, special, incidental, reliance or consequential damages or damages for loss of use, lost profits or interruption of business, even if informed of their possibility in advance.**
 
-14.3 Exceptions and Enhanced Cap. **Sections 14.1 (General Cap) and 14.2 (Consequential Damages Waiver) will not apply to Enhanced Claims or Uncapped Claims. For all Enhanced Claims, each party’s entire liability will not exceed the Enhanced Cap.**
+14.3. Exceptions and Enhanced Cap. **Sections 14.1 (General Cap) and 14.2 (Consequential Damages Waiver) will not apply to Enhanced Claims or Uncapped Claims. For all Enhanced Claims, each party’s entire liability will not exceed the Enhanced Cap.**
 
-**14.4 Nature of Claims**. The waivers and limitations in this Section 14 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
+**14.4. Nature of Claims**. The waivers and limitations in this Section 14 apply regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise and will survive and apply even if any limited remedy in this Agreement fails of its essential purpose.
 
-**14.5 Liability Definitions**.
+**14.5. Liability Definitions**.
 
   “**Enhanced Cap**” means three times (3x) the General Cap.
 
@@ -132,37 +132,37 @@
 
 **15. Indemnification**.
 
-**15.1 Indemnification by Provider**. Provider, at its own cost, will defend Customer from and against any Provider-Covered Claims and will indemnify and hold harmless Customer from and against any damages or costs awarded against Customer (including reasonable attorneys’ fees) or agreed in settlement by Provider resulting from the Provider-Covered Claims.
+**15.1. Indemnification by Provider**. Provider, at its own cost, will defend Customer from and against any Provider-Covered Claims and will indemnify and hold harmless Customer from and against any damages or costs awarded against Customer (including reasonable attorneys’ fees) or agreed in settlement by Provider resulting from the Provider-Covered Claims.
 
-**15.2 Indemnification by Customer**. Customer, at its own cost, will defend Provider from and against any Customer-Covered Claims and will indemnify and hold harmless Provider from and against any damages or costs awarded against Provider (including reasonable attorneys’ fees) or agreed in settlement by Customer resulting from the Customer-Covered Claims.
+**15.2. Indemnification by Customer**. Customer, at its own cost, will defend Provider from and against any Customer-Covered Claims and will indemnify and hold harmless Provider from and against any damages or costs awarded against Provider (including reasonable attorneys’ fees) or agreed in settlement by Customer resulting from the Customer-Covered Claims.
 
-**15.3 Indemnification Definitions**.
+**15.3. Indemnification Definitions**.
 
   “**Customer-Covered Claim**” means a third-party claim arising from Customer’s breach or alleged breach of Section 7.1 (Compliance) or 7.2 (High-Risk Activities and Sensitive Data).
   
   “**Provider-Covered Claim**” means a third-party claim that the Product, when used by Customer as authorized in this Agreement, infringes or misappropriates a third party’s intellectual property rights.
 
-**15.4 Procedures**. The indemnifying party’s obligations in this Section 15 are subject to receiving from the indemnified party: (a) prompt notice of the claim (but delayed notice will only reduce the indemnifying party’s obligations to the extent it is prejudiced by the delay), (b) the exclusive right to control the claim’s investigation, defense and settlement and (c) reasonable cooperation at the indemnifying party’s expense. The indemnifying party may not settle a claim without the indemnified party’s prior approval if settlement would require the indemnified party to admit fault or take or refrain from taking any action (except regarding use or nonuse of the Product when Provider is the indemnifying party). The indemnified party may participate in a claim with its own counsel at its own expense.
+**15.4. Procedures**. The indemnifying party’s obligations in this Section 15 are subject to receiving from the indemnified party: (a) prompt notice of the claim (but delayed notice will only reduce the indemnifying party’s obligations to the extent it is prejudiced by the delay), (b) the exclusive right to control the claim’s investigation, defense and settlement and (c) reasonable cooperation at the indemnifying party’s expense. The indemnifying party may not settle a claim without the indemnified party’s prior approval if settlement would require the indemnified party to admit fault or take or refrain from taking any action (except regarding use or nonuse of the Product when Provider is the indemnifying party). The indemnified party may participate in a claim with its own counsel at its own expense.
 
-**15.5 Mitigation**. In response to an infringement or misappropriation claim, if required by settlement or injunction or as Provider determines necessary to avoid material liability, Provider may: (a) procure rights for Customer’s continued use of the Product, (b) replace or modify the allegedly infringing portion of the Product to avoid infringement, without reducing the Product’s overall functionality or (c) terminate the affected Subscription and refund to Customer any prepaid, unused fees for the terminated portion of the Subscription Term.
+**15.5. Mitigation**. In response to an infringement or misappropriation claim, if required by settlement or injunction or as Provider determines necessary to avoid material liability, Provider may: (a) procure rights for Customer’s continued use of the Product, (b) replace or modify the allegedly infringing portion of the Product to avoid infringement, without reducing the Product’s overall functionality or (c) terminate the affected Subscription and refund to Customer any prepaid, unused fees for the terminated portion of the Subscription Term.
 
-**15.6 Exceptions**. Provider’s obligations in this Section 15 do not apply to claims resulting from (a) modification or unauthorized use of the Product, (b) use of the Product in combination with items not provided by Provider, including Third-Party Platforms or (c) Provider Software other than the most recent release, if Provider made available (at no additional charge) a newer release that would avoid infringement.
+**15.6. Exceptions**. Provider’s obligations in this Section 15 do not apply to claims resulting from (a) modification or unauthorized use of the Product, (b) use of the Product in combination with items not provided by Provider, including Third-Party Platforms or (c) Provider Software other than the most recent release, if Provider made available (at no additional charge) a newer release that would avoid infringement.
 
-**15.7 Exclusive Remedy**. This Section 15 sets out the indemnified party’s exclusive remedy and the indemnifying party’s sole liability regarding third-party claims of intellectual property infringement or misappropriation covered by this Section 15.
+**15.7. Exclusive Remedy**. This Section 15 sets out the indemnified party’s exclusive remedy and the indemnifying party’s sole liability regarding third-party claims of intellectual property infringement or misappropriation covered by this Section 15.
 
 **16. Confidentiality**.
 
-**16.1 Use and Protection**. As recipient, each party will (a) use Confidential Information only to fulfill its obligations and exercise its rights under this Agreement, (b) not disclose Confidential Information to third parties without the discloser’s prior approval, except as permitted in this Agreement and (c) protect Confidential Information using at least the same precautions recipient uses for its own similar information and no less than a reasonable standard of care.
+**16.1. Use and Protection**. As recipient, each party will (a) use Confidential Information only to fulfill its obligations and exercise its rights under this Agreement, (b) not disclose Confidential Information to third parties without the discloser’s prior approval, except as permitted in this Agreement and (c) protect Confidential Information using at least the same precautions recipient uses for its own similar information and no less than a reasonable standard of care.
 
-**16.2 Permitted Disclosures**.
+**16.2. Permitted Disclosures**.
 
   (a) **Personnel**. The recipient may disclose Confidential Information to its employees, agents, contractors and other representatives having a legitimate need to know (including, for Provider, the subcontractors referenced in Section 19.9), provided it remains responsible for their compliance with this Section 16 and they are bound to confidentiality obligations no less protective than this Section 16.
 
   (b) **Required by Law**. The recipient may disclose Confidential Information (including Customer Data) to the extent required by Law. If permitted by Law, the recipient will give the discloser reasonable advance notice of the required disclosure and reasonably cooperate, at the discloser’s expense, to obtain confidential treatment for the Confidential Information.
 
-**16.3 Exclusions**. These confidentiality obligations do not apply to information that the recipient can document (a) is or becomes public knowledge through no fault of the recipient, (b) it rightfully knew or possessed, without confidentiality restrictions, prior to receipt from the discloser, (c) it rightfully received from a third party without confidentiality restrictions or (d) it independently developed without using or referencing Confidential Information.
+**16.3. Exclusions**. These confidentiality obligations do not apply to information that the recipient can document (a) is or becomes public knowledge through no fault of the recipient, (b) it rightfully knew or possessed, without confidentiality restrictions, prior to receipt from the discloser, (c) it rightfully received from a third party without confidentiality restrictions or (d) it independently developed without using or referencing Confidential Information.
 
-**16.4 Remedies**. Breach of this Section 16 may cause substantial harm for which monetary damages are an insufficient remedy. Upon a breach of this Section 16, the discloser is entitled to seek appropriate equitable relief, including an injunction, in addition to other remedies.
+**16.4. Remedies**. Breach of this Section 16 may cause substantial harm for which monetary damages are an insufficient remedy. Upon a breach of this Section 16, the discloser is entitled to seek appropriate equitable relief, including an injunction, in addition to other remedies.
 
 **17. Publicity**. Neither party may publicly announce this Agreement without the other party’s prior approval or except as required by Laws.
 
@@ -170,49 +170,49 @@
 
 **19. General Terms**.
 
-**19.1 Assignment**. Neither party may assign this Agreement without the prior consent of the other party, except that either party may assign this Agreement, with notice to the other party, in connection with the assigning party’s merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. Any non-permitted assignment is void. This Agreement will bind and inure to the benefit of each party’s permitted successors and assigns.
+**19.1. Assignment**. Neither party may assign this Agreement without the prior consent of the other party, except that either party may assign this Agreement, with notice to the other party, in connection with the assigning party’s merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. Any non-permitted assignment is void. This Agreement will bind and inure to the benefit of each party’s permitted successors and assigns.
 
-**19.2 Governing Law and Courts**.
+**19.2. Governing Law and Courts**.
 
   (a) The **Governing Law** governs this Agreement and any action arising out of or relating to this Agreement, without reference to conflict of law rules. The parties will adjudicate any such action in the **Courts** and each party consents to the exclusive jurisdiction and venue of the Courts for these purposes.
 
   (b) Unless otherwise specified in the Provider-Specific Terms, the “**Governing Law**” is the laws of the State of California and the “**Courts**” are the federal and state courts located in San Francisco, California.
 
-**19.3 Notices**.
+**19.3. Notices**.
 
   (a) Except as set out in this Agreement, notices, requests and approvals under this Agreement must be in writing to the addresses specified by Provider and Customer and will be deemed given: (1) upon receipt if by personal delivery, (2) upon receipt if by certified or registered U.S. mail (return receipt requested), (3) one day after dispatch if by a commercial overnight delivery service or (4) upon delivery if by email.
 
   (b) Provider will specify its notice address through the Listing or Product and Customer will specify its notice address through the Order or other method designated by Provider. Either party may update its notice address with notice to the other. Provider may also send operational notices through the Product.
 
-**19.4 Entire Agreement**.
+**19.4. Entire Agreement**.
 
   (a) This Agreement is the parties’ entire agreement regarding its subject matter and supersedes any prior or contemporaneous agreements regarding its subject matter. In this Agreement, headings are for convenience only and “including” and similar terms are to be construed without limitation. Terms in purchase orders used by Customer will not amend or modify this Agreement; any such documents are for administrative purposes only. This Agreement may be executed in counterparts (including electronic copies and PDFs), each of which is deemed an original and which together form one and the same agreement.
 
   (b) Neither the provider of the Marketplace (except if operating as the Provider) nor Bonterms, the publisher of this Standard Agreement, is a party to this Agreement and neither will have any liability or responsibility to either Provider or Customer in connection with use of this Standard Agreement.
 
-**19.5 Amendments**.
+**19.5. Amendments**.
 
   (a) Any amendments to this Agreement must be in writing and signed by each party’s authorized representatives (an “**Amendment**”). Amendments become part of this Agreement.
 
   (b) Orders may contain Use Restrictions but do not amend or modify any part of this Agreement.
 
-**19.6 Operational Changes**. With notice to Customer, Provider may modify the AUP, Security Measures, SLA or Support Policy to reflect new features or changing practices, but the modifications may not be retroactive or materially decrease Provider’s overall obligations during a Subscription Term.
+**19.6. Operational Changes**. With notice to Customer, Provider may modify the AUP, Security Measures, SLA or Support Policy to reflect new features or changing practices, but the modifications may not be retroactive or materially decrease Provider’s overall obligations during a Subscription Term.
 
-**19.7 Waivers and Severability**. Waivers must be signed by the waiving party’s authorized representative and cannot be implied from conduct. If any provision of this Agreement is held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of this Agreement remains in effect.
+**19.7. Waivers and Severability**. Waivers must be signed by the waiving party’s authorized representative and cannot be implied from conduct. If any provision of this Agreement is held invalid, illegal or unenforceable, it will be limited to the minimum extent necessary so the rest of this Agreement remains in effect.
 
-**19.8 Force Majeure**. Neither party is liable for a delay or failure to perform this Agreement due to a Force Majeure. If a Force Majeure materially adversely affects the Product for 15 or more consecutive days, either party may terminate the affected Subscription upon notice to the other and Provider will refund to Customer any prepaid, unused fees for the terminated portion of the Subscription Term. However, this Section 19.8 does not limit Customer’s obligations to pay fees owed.
+**19.8. Force Majeure**. Neither party is liable for a delay or failure to perform this Agreement due to a Force Majeure. If a Force Majeure materially adversely affects the Product for 15 or more consecutive days, either party may terminate the affected Subscription upon notice to the other and Provider will refund to Customer any prepaid, unused fees for the terminated portion of the Subscription Term. However, this Section 19.8 does not limit Customer’s obligations to pay fees owed.
 
-**19.9 Subcontractors**. Provider may use subcontractors and permit them to exercise Provider’s rights and fulfill Provider’s obligations, but Provider remains responsible for each subcontractor’s compliance with this Agreement and for Provider’s overall performance under this Agreement. This does not limit any additional terms for subprocessors under a DPA.
+**19.9. Subcontractors**. Provider may use subcontractors and permit them to exercise Provider’s rights and fulfill Provider’s obligations, but Provider remains responsible for each subcontractor’s compliance with this Agreement and for Provider’s overall performance under this Agreement. This does not limit any additional terms for subprocessors under a DPA.
 
-**19.10 Independent Contractors**. The parties are independent contractors, not agents, partners or joint venturers.
+**19.10. Independent Contractors**. The parties are independent contractors, not agents, partners or joint venturers.
 
-**19.11 No Third-Party Beneficiaries**. There are no third-party beneficiaries to this Agreement.
+**19.11. No Third-Party Beneficiaries**. There are no third-party beneficiaries to this Agreement.
 
-**19.12 Open Source**. Provider Software may include third-party open source software (“**Open Source**”) as listed in the Documentation or by Provider upon request. Customer acknowledges that its license to use any Open Source will be the Open Source license applicable to such code and not the license to Provider Software in Section 2.2 (Provider Software) above to the extent required by such Open Source license.
+**19.12. Open Source**. Provider Software may include third-party open source software (“**Open Source**”) as listed in the Documentation or by Provider upon request. Customer acknowledges that its license to use any Open Source will be the Open Source license applicable to such code and not the license to Provider Software in Section 2.2 (Provider Software) above to the extent required by such Open Source license.
 
-**19.13 Export**. Each party (a) will comply with all export and import Laws in performing this Agreement and (b) represents and warrants that it is not listed on any U.S. government list of prohibited or restricted parties or located in (or a national of) a country subject to a U.S. government embargo or designated by the U.S. government as a “terrorist-supporting” country. Customer will not submit to the Cloud Service any data controlled under the U.S. International Traffic in Arms Regulations.
+**19.13. Export**. Each party (a) will comply with all export and import Laws in performing this Agreement and (b) represents and warrants that it is not listed on any U.S. government list of prohibited or restricted parties or located in (or a national of) a country subject to a U.S. government embargo or designated by the U.S. government as a “terrorist-supporting” country. Customer will not submit to the Cloud Service any data controlled under the U.S. International Traffic in Arms Regulations.
 
-**19.14 Government Rights**. To the extent applicable, the Product is “commercial computer software” or a “commercial item” for purposes of FAR 12.212 and DFARS 227.7202. Use, reproduction, release, modification, disclosure or transfer of the Product is governed solely by the terms of this Agreement, and all other use is prohibited.
+**19.14. Government Rights**. To the extent applicable, the Product is “commercial computer software” or a “commercial item” for purposes of FAR 12.212 and DFARS 227.7202. Use, reproduction, release, modification, disclosure or transfer of the Product is governed solely by the terms of this Agreement, and all other use is prohibited.
 
 **20. Definitions**.
 
