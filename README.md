@@ -1,13 +1,13 @@
-# Standard-Agreement-for-Marketplace-Transactions
+# Standard-End-User-Agreement
 
 ## About Bonterms
 [Bonterms](https://bonterms.com/) is simplifying commercial contracting through Standard Agreements. Our [Standard Agreements](https://bonterms.com/#standard-agreements) let the parties start from a balanced foundation and negotiate by Cover Page, not redlines. The [Bonterms Platform](https://bonterms.com/platform/) leverages our Standard Agreements to take collaborative dealmaking to the next level. Bonterms is lawyer-led and funded by XYZ Capital and Wilson Sonsini.
 
 
-## How to Use: Bonterms Standard Agreement for Marketplace Transactions
+## How to Use: Bonterms Standard End User Agreement
 
 ## Overview:
-The Bonterms Standard Agreement for Marketplace Transactions (Version 1.0) is designed to ease contracting between Providers and Customers in an enterprise app Marketplace.
+The Bonterms Standard End User Agreement (Version 1.0) is designed to ease contracting between Providers and Customers in an enterprise app Marketplace.
 
 Once adopted by the Marketplace, individual Providers can designate the Standard Agreement as the end user terms under which their Product, either a Cloud Servicer or Provider Software (installed software), is made available to the Customer.
 
