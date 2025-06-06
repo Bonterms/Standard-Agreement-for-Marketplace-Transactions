@@ -2,7 +2,7 @@
 
 ## The Bonterms Standard Agreement for Marketplace Transactions was renamed "Bonterms Standard End User Agreement" on June 4, 2025. The only change between the agreements was to the title.
 
-For the updated version, please refer to the [Bonterms Standard End User Agreement]((https://github.com/Bonterms/Bonterms-Standard-End-User-Agreement/))
+For the updated version, please refer to the [Bonterms Standard End User Agreement](https://github.com/Bonterms/Bonterms-Standard-End-User-Agreement/)
 
 What is the "Standard Agreement for Marketplace Transactions"?
 
